@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Green Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 500,
+      "comment": "Good",
+      "date": "2022-02-24T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Redmi Mobile",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 18000,
+      "comment": "Nice",
+      "date": "2022-02-25T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Boat Bluetooth",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 999,
+      "comment": "Good",
+      "date": "2022-02-09T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Fresh",
+      "date": "2022-02-07T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fresh",
+      "date": "2022-02-18T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "LG TV",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 30000,
+      "comment": "HD",
+      "date": "2022-02-27T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Watch",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 1000,
+      "comment": "Noise watch",
+      "date": "2022-06-14T18:30:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
